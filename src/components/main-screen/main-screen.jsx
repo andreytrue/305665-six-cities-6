@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import Card from '../card.jsx';
+import Card from '../card/card';
 
 const PLACES_TITLES = [
   `Beautiful & luxurious apartment at great location`,
